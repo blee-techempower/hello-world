@@ -1,2 +1,3 @@
 # hello-world
-Hello github. Just another repositorry
+
+NEW REPERSITORY is created. =)
